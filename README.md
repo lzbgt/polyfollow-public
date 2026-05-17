@@ -6,7 +6,7 @@ Live app: https://x2.brucelu.top/
 
 Founding access: https://x2.brucelu.top/polyfollow/
 
-Checkout: https://x2.brucelu.top/polyfollow/checkout/
+Checkout: https://x2.brucelu.top/polyfollow/checkout/?source=github-polyfollow-public
 
 Top-wallet proof page: https://x2.brucelu.top/polyfollow/top-wallets/
 
