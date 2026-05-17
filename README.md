@@ -8,9 +8,12 @@ Founding access: https://x2.brucelu.top/polyfollow/
 
 Checkout: https://x2.brucelu.top/polyfollow/checkout/
 
+Top-wallet proof page: https://x2.brucelu.top/polyfollow/top-wallets/
+
 ## What It Does
 
 - Shows live Polymarket leaderboard data.
+- Provides a server-rendered top-wallet proof page that can be shared before signup.
 - Surfaces trader PnL, holdings, open positions, and wallet profile context.
 - Helps build a watchlist of top wallets to monitor.
 - Supports follow-alert workflows for watched wallets and markets.
@@ -30,6 +33,12 @@ For **$49**, founding access covers:
 ## Live Verification
 
 The hosted backend is running on a JP cloud host and can access Polymarket public APIs.
+
+Shareable proof page:
+
+```text
+https://x2.brucelu.top/polyfollow/top-wallets/
+```
 
 Example public endpoint:
 
