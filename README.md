@@ -16,16 +16,16 @@ Checkout: https://x2.brucelu.top/polyfollow/checkout/
 - Supports follow-alert workflows for watched wallets and markets.
 - Runs in read-only informational mode for the public deployment.
 
-## Current Offer
+## Why Pay For Founding Access
 
-PolyFollow Founding Access is available for **$49**.
+The public leaderboard is useful, but it does not choose what to watch for you. Founding access is for traders who want setup help now while the hosted beta matures.
 
-Founder access is for traders who want help setting up:
+For **$49**, founding access covers:
 
-- watched-wallet lists
-- leaderboard review
-- alert workflow design
-- early beta access as hosted features are rolled out
+- first wallet/watchlist setup
+- leaderboard review for the buyer's trading interests
+- alert workflow design for watched wallets or markets
+- early beta access as premium follow tooling is rolled out
 
 ## Live Verification
 
