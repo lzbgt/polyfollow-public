@@ -1,0 +1,64 @@
+# PolyFollow
+
+Polymarket wallet intelligence and follow alerts for traders who want to monitor top wallets without building their own data pipeline.
+
+Live app: https://x2.brucelu.top/
+
+Founding access: https://x2.brucelu.top/polyfollow/
+
+Checkout: https://x2.brucelu.top/polyfollow/checkout/
+
+## What It Does
+
+- Shows live Polymarket leaderboard data.
+- Surfaces trader PnL, holdings, open positions, and wallet profile context.
+- Helps build a watchlist of top wallets to monitor.
+- Supports follow-alert workflows for watched wallets and markets.
+- Runs in read-only informational mode for the public deployment.
+
+## Current Offer
+
+PolyFollow Founding Access is available for **$49**.
+
+Founder access is for traders who want help setting up:
+
+- watched-wallet lists
+- leaderboard review
+- alert workflow design
+- early beta access as hosted features are rolled out
+
+## Live Verification
+
+The hosted backend is running on a JP cloud host and can access Polymarket public APIs.
+
+Example public endpoint:
+
+```text
+https://x2.brucelu.top/api/traders/leaderboard?limit=1
+```
+
+Health endpoint:
+
+```text
+https://x2.brucelu.top/healthz
+```
+
+Expected health response:
+
+```text
+polyfollow-ok
+```
+
+## Important Risk Notice
+
+PolyFollow is informational analytics only. It is not financial advice, managed trading, custody, or a profit guarantee. Prediction-market trading involves risk of loss.
+
+The public deployment currently has live trading disabled.
+
+```text
+TRADING_ENABLED=false
+```
+
+## Why This Exists
+
+Prediction-market traders increasingly want wallet intelligence, top-trader monitoring, whale alerts, and copy-ready research workflows. PolyFollow focuses on making those workflows usable without requiring every user to build their own Polymarket API stack.
