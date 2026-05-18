@@ -2,14 +2,6 @@
 
 Polymarket wallet intelligence and follow alerts for traders who want to monitor top wallets without building their own data pipeline.
 
-Live app: https://x2.brucelu.top/
-
-Founding access: https://x2.brucelu.top/polyfollow/
-
-Checkout: https://x2.brucelu.top/polyfollow/checkout/?source=github-polyfollow-public
-
-Top-wallet proof page: https://x2.brucelu.top/polyfollow/top-wallets/
-
 ## What It Does
 
 - Shows live Polymarket leaderboard data.
@@ -37,19 +29,16 @@ The hosted backend is running on a JP cloud host and can access Polymarket publi
 Shareable proof page:
 
 ```text
-https://x2.brucelu.top/polyfollow/top-wallets/
 ```
 
 Example public endpoint:
 
 ```text
-https://x2.brucelu.top/api/traders/leaderboard?limit=1
 ```
 
 Health endpoint:
 
 ```text
-https://x2.brucelu.top/healthz
 ```
 
 Expected health response:
